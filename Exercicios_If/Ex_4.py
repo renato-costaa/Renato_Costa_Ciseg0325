@@ -1,4 +1,3 @@
-
 sal_ini = float(input("Digite o saldo inicial do cliente: "))
 cheque = float(input("Digite o valor do cheque: "))
 

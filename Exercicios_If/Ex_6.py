@@ -1,4 +1,3 @@
-
 nome_cli = input("Digite o nome do cliente: ")
 val_compra = float(input("Digite o valor da compra: "))
 

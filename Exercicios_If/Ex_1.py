@@ -1,4 +1,3 @@
-
 seg = int(input("Digita o número de segundos: "))
 
 # Cálculo de horas, minutos e segundos

@@ -1,4 +1,3 @@
-
 num_mes = int(input("Digita um número de 1 a 12 para saber o mês correspondente: "))
 
 # Verificando o mês

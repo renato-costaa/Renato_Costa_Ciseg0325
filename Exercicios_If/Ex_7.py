@@ -1,4 +1,3 @@
-
 nota1 = float(input("Digita a nota da primeira prova (0 a 10): "))
 # Verificar se a 1ª nota está entre 0 e 10
 if nota1 < 0 or nota1 > 10:
